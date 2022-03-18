@@ -10,8 +10,11 @@
 *.userosscache
 *.sln.docstates
 
+<<<<<<< HEAD
 Kalkulator
 
+=======
+>>>>>>> 79a26c549fbfacac16c77e190a68d013848bde30
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
